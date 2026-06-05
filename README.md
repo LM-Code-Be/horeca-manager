@@ -2,7 +2,7 @@
 
 HorecaManager Pro est une application desktop de caisse et de gestion pour restaurant, snack, cafe ou bar. Elle permet de gerer les tables, reservations, commandes, paiements, tickets, produits, stocks et rapports depuis une interface JavaFX.
 
-Article associe : https://lm-code.be/creer-logiciel-gestion-restaurant-javafx-sqlite
+Article associe : [https://lm-code.be/creer-logiciel-gestion-restaurant-javafx-sqlite]
 
 ## Technologies utilisees
 
