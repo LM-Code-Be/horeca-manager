@@ -1,0 +1,23 @@
+# Build Maven
+target/
+
+# Base locale et exports generes
+horeca_manager.db
+exports/
+
+# Fichier de tutoriel prive, non publie sur GitHub
+TUTORIEL_HORECAMANAGER.md
+
+# Fichiers locaux
+.env
+.env.*
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Systeme
+.DS_Store
+Thumbs.db

@@ -1,0 +1,22 @@
+.root {
+    -app-bg: #0F172A;
+    -surface: #1E293B;
+    -input-bg: #111827;
+    -sidebar-bg: #111827;
+    -sidebar-text: #F8FAFC;
+    -sidebar-muted: #94A3B8;
+    -sidebar-hover: #1E293B;
+    -text: #F8FAFC;
+    -muted: #94A3B8;
+    -border: #334155;
+    -soft: #243449;
+    -soft-hover: #2F4159;
+    -selection: #1E3A8A;
+    -primary: #2563EB;
+    -primary-hover: #3B82F6;
+    -accent: #F59E0B;
+    -shadow: rgba(0, 0, 0, 0.35);
+    -footer-bg: #111827;
+    -footer-text: #94A3B8;
+    -footer-link: #F59E0B;
+}
